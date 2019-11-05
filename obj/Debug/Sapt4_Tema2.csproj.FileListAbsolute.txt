@@ -1,0 +1,6 @@
+C:\Users\Andrei\Desktop\Wantsome\Saptamana 4\Sapt4_Tema2\Sapt4_Tema2\obj\Debug\Sapt4_Tema2.csprojAssemblyReference.cache
+C:\Users\Andrei\Desktop\Wantsome\Saptamana 4\Sapt4_Tema2\Sapt4_Tema2\bin\Debug\Sapt4_Tema2.exe.config
+C:\Users\Andrei\Desktop\Wantsome\Saptamana 4\Sapt4_Tema2\Sapt4_Tema2\bin\Debug\Sapt4_Tema2.exe
+C:\Users\Andrei\Desktop\Wantsome\Saptamana 4\Sapt4_Tema2\Sapt4_Tema2\bin\Debug\Sapt4_Tema2.pdb
+C:\Users\Andrei\Desktop\Wantsome\Saptamana 4\Sapt4_Tema2\Sapt4_Tema2\obj\Debug\Sapt4_Tema2.exe
+C:\Users\Andrei\Desktop\Wantsome\Saptamana 4\Sapt4_Tema2\Sapt4_Tema2\obj\Debug\Sapt4_Tema2.pdb
